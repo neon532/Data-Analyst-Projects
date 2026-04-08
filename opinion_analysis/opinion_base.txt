@@ -1,0 +1,5 @@
+Instruction: Place each customer opinion in a separate line.
+
+The food was great but the service was slow.
+I love this place, definitely coming back!
+The room was dirty and the staff was rude.
